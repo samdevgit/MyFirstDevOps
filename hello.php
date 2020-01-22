@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Devops Test</title>
+  <title>Sam Devops Test</title>
  </head>
  <body>
  <?php echo '<p>Hello World</p>'; ?> 
